@@ -1,4 +1,4 @@
-# PowerShell Module - Common
+# PowerShell Module - Common - *Outdated*
 PS module of common functions
 
 This module was initially created while I was testing various ways to import classes into modules.
